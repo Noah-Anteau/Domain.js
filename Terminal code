@@ -1,0 +1,3 @@
+ conda install kivy -c conda-forge --user --Javascript --js --Domain.js --NameOfProject --error --
+ python -m virtualenv kivy_ve --JSDomain --error
+ python -m pip uninstall -y kivy.deps.glew kivy.deps.gstreamer kivy.deps.sdl2 kivy.deps.angle --error
